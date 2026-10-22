@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "IMMUNE FORCE: Bloodstream Under Siege"
+description = "A browser-playable 2D microbiology arcade game where a white blood cell gathers immune resources, fights pathogens, unlocks upgrades, and survives progressively harder levels across three difficulty modes."
